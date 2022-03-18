@@ -1,0 +1,11 @@
+package day0310;
+
+public class varex2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int b=(int)128;
+		System.out.println(b);
+	}
+
+}

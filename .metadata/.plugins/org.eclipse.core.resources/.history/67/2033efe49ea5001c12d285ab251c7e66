@@ -1,0 +1,23 @@
+package day0315;
+
+public class example3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=60;
+		int b=70;
+		int c=80;
+		int d=50;
+		int e=30;
+		int sum=0;
+		sum=a+b+c+d+e;
+		float avw=sum/5.0f;
+		System.out.printf("나잘난의 성적 총합계는%d 입니다. 평균은 %.1f 입니다.",sum,avw);
+		
+		
+		
+		
+		
+	}
+
+}

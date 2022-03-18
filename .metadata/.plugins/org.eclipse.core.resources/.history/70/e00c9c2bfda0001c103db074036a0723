@@ -1,0 +1,14 @@
+package day0310;
+
+public class varex2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char c1= 'a';
+		char c3=(char)(c1+1);
+		char c4=++c1;
+		int i='b'-'a';
+		int j='2'-'0';
+	}
+
+}

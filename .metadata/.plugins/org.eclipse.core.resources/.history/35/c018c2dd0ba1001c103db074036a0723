@@ -1,0 +1,12 @@
+package day0311;
+
+public class example {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 char x='j';
+		 System.out.println(x >='a' && x<='z');
+		 System.out.println((x>='a' && x<='z')||(x>='A'&& x<='Z'));
+	}
+
+}

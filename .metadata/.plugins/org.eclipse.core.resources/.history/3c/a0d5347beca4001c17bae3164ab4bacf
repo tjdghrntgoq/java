@@ -1,0 +1,12 @@
+
+public class example10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int y='Y';
+		int R='r';
+		System.out.println(y);
+		System.out.println(R);
+	}
+
+}

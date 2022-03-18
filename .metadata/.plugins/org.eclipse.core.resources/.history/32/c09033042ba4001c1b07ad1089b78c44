@@ -1,0 +1,18 @@
+package day0315;
+
+public class example3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int p=60;
+		int j=70;
+		int a=80;
+		int c=50;
+		int cf=30;
+		System.out.printf("(p+j+a+c+cf)%d",5);
+		
+		
+		
+	}
+
+}

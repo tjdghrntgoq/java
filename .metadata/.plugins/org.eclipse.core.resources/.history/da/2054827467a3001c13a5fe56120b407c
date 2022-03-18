@@ -1,0 +1,19 @@
+package dya0314;
+
+public class asd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int gender=2;
+		if (gender==2)
+		{
+			System.out.println("여자");
+		}
+		else
+		{
+			gender=0;
+			System.out.println("남자");
+		}
+	}
+
+}
